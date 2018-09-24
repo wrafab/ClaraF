@@ -1,0 +1,23 @@
+<html>
+<title> CAD Project Works</title
+<head>
+ <body>
+ <h1>CAD Project Works</h1>      
+<style>
+body{
+background-color:#F08080;
+
+  margin-left:10em;
+  margin-right:10em; } 
+
+h1 {font-family:times;font-size:200%;text-align:center;}
+h2 {font-family:times;font-size:150%;text-align:center;}   
+p {font-family:times;font-size:200%;text-align:center;}
+ </style>
+
+ <br>
+<h1>  Fusion 360 Homework Models
+ </h1>
+ <br>
+ <p>
+ 
